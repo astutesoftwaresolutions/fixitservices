@@ -1,0 +1,5 @@
+User-Agent: *
+Allow: /assets
+Allow: /assets/
+
+Sitemap: https://fixitservices.ga/idex.html
